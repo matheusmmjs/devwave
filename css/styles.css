@@ -10470,6 +10470,10 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-style: italic;
 }
 
+.animate{
+  list-style: none;
+}
+
 .SocialiconsAdjust {
   display: inline grid;
   left: -1.8rem;
@@ -10478,8 +10482,6 @@ section#contact form#contactForm :-ms-input-placeholder {
   position: fixed;
   transform: translate(0,-50%);
   z-index: 9999;
-  -webkit-transition: width 2s, height 2s, background-color 2s, -webkit-transform 2s;
-  transition: width 5s, height 2s, background-color 2s, transform 2s;
 }
 
 .zoomSocialIcons img{
@@ -10503,4 +10505,5 @@ section#contact form#contactForm :-ms-input-placeholder {
 .versiculo2{
   font-size: 11px;
   font-style: italic;
+  text-decoration: underline ;
 }
