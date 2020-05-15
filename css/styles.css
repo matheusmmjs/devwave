@@ -10094,10 +10094,10 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("./../assets/img/capaDevWave2.png");
+  background-image: url("./../assets/img/capaDevWave.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
+  background-position: center;
   background-size: cover;
   height: 969px;
 }
@@ -10490,4 +10490,17 @@ section#contact form#contactForm :-ms-input-placeholder {
 #portfolio .portfolio-item .portfolio-link img{
   height: 100%;
   width: 100%;
+}
+
+.versiculo{
+  font-size: smaller;
+}
+
+.versiculoSenhor{
+  font-weight: bold;
+}
+
+.versiculo2{
+  font-size: 11px;
+  font-style: italic;
 }
