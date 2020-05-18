@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #fed136;
+  /*color: #fed136;*/
   text-decoration: none;
   background-color: transparent;
 }
@@ -10051,7 +10051,7 @@ img::-moz-selection {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #51b4d2;
 }
 
 @media (min-width: 992px) {
@@ -10506,4 +10506,8 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-size: 11px;
   font-style: italic;
   text-decoration: underline ;
+}
+
+.portalCliente:hover{
+  text-decoration: underline;
 }
